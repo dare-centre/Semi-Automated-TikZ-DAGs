@@ -1,4 +1,4 @@
-# <ins>[Semi-Automated-Ti*k*Z-DAGs](https://github.com/tstenborg/Semi-Automated-TikZ-DAGs)</ins>
+# [Semi-Automated-Ti*k*Z-DAGs](https://github.com/tstenborg/Semi-Automated-TikZ-DAGs)
 
 Semi-automated Ti*k*Z directed acyclic graphs in R.
 
